@@ -40,8 +40,28 @@ The configuration was verified through:
 - Port 22 listening status checking.
 - Remote login testing from Windows.
 - Authentication testing using SSH keys.
+  
+## 5. Project Screenshots
 
-## 5. Skills Practiced
+### Ubuntu Network Configuration
+![Ubuntu Network Interface](screenshots/01-ubuntu-network-interface.jpeg)
+
+### SSH Service Status
+![SSH Service Status](screenshots/03-ssh-service-status.jpeg)
+
+### SSH Port 22
+![SSH Port 22 Listening](screenshots/04-ssh-port-22-listening.jpeg)
+
+### SSH Key-Based Authentication
+![SSH Key Login](screenshots/07-ssh-key-login.jpeg)
+
+### Password Authentication Test
+![Password Login Rejected](screenshots/09-password-login-rejected.jpeg)
+
+### SSH Authentication Logs
+![SSH Authentication Logs](screenshots/11-ssh-authentication-logs.jpeg)
+
+## 6. Skills Practiced
 
 - Basic Linux administration
 - SSH configuration and remote access
@@ -50,7 +70,7 @@ The configuration was verified through:
 - Network connectivity troubleshooting
 - Windows and Ubuntu interoperability
 
-## 6. Learning Outcomes
+## 7. Learning Outcomes
 
 Through this project, I gained practical experience in configuring Linux remote access, managing SSH services, setting up key-based authentication, and troubleshooting connectivity between different operating systems.
 
